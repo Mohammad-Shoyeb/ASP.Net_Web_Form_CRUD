@@ -1,0 +1,104 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Diagonstic_Center.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title><%: Page.Title %></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <script src="/Scripts/bootstrap.bundle.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+        }
+
+        .main {
+            min-height: calc(100vh - 150px);
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="headContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" />
+            </Scripts>
+        </asp:ScriptManager>
+        <nav class="navbar navbar-light bg-light navbar-expand-md shadow-sm">
+            <div class="container-fluid">
+                <span class="navbar-brand">ESAD-R50<sup>10</sup></span>
+                <div class="navbar-collapse collapse">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item"><a href="/Default.aspx" class="nav-link">Home</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Examples
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="/DiagonisticCenterManagement/Testtypes.aspx">Test types</a></li>
+                                <li><a class="dropdown-item" href="/DiagonisticCenterManagement/Tests.aspx">Tests</a></li>
+                                <li><a class="dropdown-item" href="/DiagonisticCenterManagement/Testentries.aspx">Testentries</a></li>
+                                <li><a class="dropdown-item" href="/DiagonisticCenterManagement/entrytests.aspx">entrytests</a></li>
+                            
+                            </ul>
+                        </li>
+                         <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">Reports
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="/DiagonisticCenterManagement/TesttypesByTestRptPage.aspx">Test types by test Report</a></li>
+                                <li><a class="dropdown-item" href="/DiagonisticCenterManagement/Tests.aspx"></a></li>
+                            
+                            </ul>
+                        </li>
+                    </ul>
+
+                    <asp:LoginView ID="LoginView1" runat="server">
+                        <AnonymousTemplate>
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a href="login.aspx" class="nav-link">Login</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="register.aspx" class="nav-link">Register</a>
+                                </li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+
+                            <span class="navbar-text">
+                                <asp:LoginName ID="LoginName1" runat="server" />
+                            </span>
+
+
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <asp:LinkButton CssClass="nav-link" ID="LinkButton1" runat="server">Logout</asp:LinkButton></li>
+                            </ul>
+
+                        </LoggedInTemplate>
+
+                    </asp:LoginView>
+
+
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid main">
+            <asp:ContentPlaceHolder ID="mainContent" runat="server">
+                <h1 class="display-1">ASP.NET WebForms</h1>
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer class="container-fluid">
+            <p>&copy;Copiright - <%: DateTime.Now.Year %></p>
+
+        </footer>
+        <asp:ContentPlaceHolder ID="footer" runat="server"></asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

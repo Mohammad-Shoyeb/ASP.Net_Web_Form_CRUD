@@ -1,0 +1,589 @@
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll.config
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.pdb
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe.config
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.rsp
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe.config
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.rsp
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.AppContext.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Console.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Http.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe.config
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.rsp
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.CoreCompileInputs.cache
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.pdb
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll.config
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.pdb
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe.config
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.rsp
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe.config
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.rsp
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.AppContext.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Console.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.rsp
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.AssemblyReference.cache
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.dll
+C:\Users\LAB104-06\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.pdb
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Shared.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\stdole.dll
+C:\Users\Shoyeb\Desktop\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Web.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll.config
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.pdb
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe.config
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.rsp
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe.config
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.rsp
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.AppContext.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Console.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.rsp
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportSource.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Shared.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Web.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\stdole.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.dll
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.pdb
+C:\Users\LAB104-06\Desktop\Class013\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.AssemblyReference.cache
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll.config
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.pdb
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe.config
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.rsp
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe.config
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.rsp
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.AppContext.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Console.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Http.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe.config
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.rsp
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Shared.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Web.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\stdole.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.CoreCompileInputs.cache
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.pdb
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Owin.dll
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shoyeb\Desktop\M6 proj\Module 06 project\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.AssemblyReference.cache
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll.config
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.pdb
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe.config
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.rsp
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe.config
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.rsp
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Managed.Core.targets
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.AppContext.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Collections.Immutable.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Console.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Globalization.Calendars.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Http.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Sockets.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Reflection.Metadata.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.ValueTuple.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XmlDocument.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe.config
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.rsp
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe.config
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportSource.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Shared.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Web.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Owin.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\stdole.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.AssemblyReference.cache
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.CoreCompileInputs.cache
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.dll
+D:\M6 ASP.Net\Monthly exam Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.pdb
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll.config
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.pdb
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe.config
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.rsp
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe.config
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.rsp
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.AppContext.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Console.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Http.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe.config
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.rsp
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Shared.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Web.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Owin.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\stdole.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.AssemblyReference.cache
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.CoreCompileInputs.cache
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.dll
+C:\Users\Shoyeb\Desktop\ADO Project\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.pdb
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll.config
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Diagonstic_Center.pdb
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.exe.config
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csc.rsp
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.exe.config
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\csi.rsp
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Managed.Core.targets
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.AppContext.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Collections.Immutable.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Console.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Globalization.Calendars.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Http.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Net.Sockets.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Reflection.Metadata.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.ValueTuple.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XmlDocument.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.exe.config
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\vbc.rsp
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\roslyn\VBCSCompiler.exe.config
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportSource.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Shared.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.Web.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Owin.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\stdole.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\EntityFramework.SqlServer.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.Core.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.Owin.Security.Cookies.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.AssemblyReference.cache
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.csproj.CoreCompileInputs.cache
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.dll
+F:\M6 proj\Diagonstic_Center_Project\Diagonstic_Center\obj\Debug\Diagonstic_Center.pdb
